@@ -1,0 +1,3 @@
+C:\Users\NIrwin\Documents\Visual Studio 2015\Projects\GeolocationTester\PrototypeGeolocationB\bin\Debug\PrototypeGeolocationB.exe.config
+C:\Users\NIrwin\Documents\Visual Studio 2015\Projects\GeolocationTester\PrototypeGeolocationB\obj\Debug\PrototypeGeolocationB.exe
+C:\Users\NIrwin\Documents\Visual Studio 2015\Projects\GeolocationTester\PrototypeGeolocationB\obj\Debug\PrototypeGeolocationB.pdb
