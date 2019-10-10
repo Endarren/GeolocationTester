@@ -1,0 +1,9 @@
+c:\users\nirwin\documents\visual studio 2015\Projects\PrototypeGeolocationB\PrototypeGeolocationB\bin\Debug\PrototypeGeolocationB.exe.config
+c:\users\nirwin\documents\visual studio 2015\Projects\PrototypeGeolocationB\PrototypeGeolocationB\obj\Debug\PrototypeGeolocationB.csprojResolveAssemblyReference.cache
+c:\users\nirwin\documents\visual studio 2015\Projects\PrototypeGeolocationB\PrototypeGeolocationB\obj\Debug\PrototypeGeolocationB.Form1.resources
+c:\users\nirwin\documents\visual studio 2015\Projects\PrototypeGeolocationB\PrototypeGeolocationB\obj\Debug\PrototypeGeolocationB.Properties.Resources.resources
+c:\users\nirwin\documents\visual studio 2015\Projects\PrototypeGeolocationB\PrototypeGeolocationB\obj\Debug\PrototypeGeolocationB.csproj.GenerateResource.Cache
+c:\users\nirwin\documents\visual studio 2015\Projects\PrototypeGeolocationB\PrototypeGeolocationB\bin\Debug\PrototypeGeolocationB.exe
+c:\users\nirwin\documents\visual studio 2015\Projects\PrototypeGeolocationB\PrototypeGeolocationB\bin\Debug\PrototypeGeolocationB.pdb
+c:\users\nirwin\documents\visual studio 2015\Projects\PrototypeGeolocationB\PrototypeGeolocationB\obj\Debug\PrototypeGeolocationB.exe
+c:\users\nirwin\documents\visual studio 2015\Projects\PrototypeGeolocationB\PrototypeGeolocationB\obj\Debug\PrototypeGeolocationB.pdb
